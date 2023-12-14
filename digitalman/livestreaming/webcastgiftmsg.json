@@ -1,0 +1,1173 @@
+{
+  "min_asset_set": [],
+  "to_user_ids": [],
+  "series_gift_data": [],
+  "gift_id": "3780",
+  "fan_ticket_count": "0",
+  "group_count": "1",
+  "repeat_count": "1",
+  "combo_count": "1",
+  "repeat_end": 0,
+  "group_id": "1702284232",
+  "income_taskgifts": "0",
+  "room_fan_ticket_count": "0",
+  "log_id": "",
+  "send_type": "5",
+  "banned_display_effects": "0",
+  "display_for_self": false,
+  "interact_gift_info": "",
+  "diy_item_info": "",
+  "total_count": "1",
+  "client_gift_source": 1,
+  "send_time": "1702284231775",
+  "force_display_effects": "0",
+  "trace_id": "78198053115170228422929676",
+  "effect_display_ts": "0",
+  "GiftPlayParam": "",
+  "multi_send_effect_level": 0,
+  "common": {
+    "method": "WebcastGiftMessage",
+    "msg_id": "7311255037140325412",
+    "room_id": "7311222049828080403",
+    "create_time": "1702284232885",
+    "monitor": 0,
+    "is_show_msg": true,
+    "describe": "I***:送给主播 1个比心兔兔",
+    "fold_type": "0",
+    "anchor_fold_type": "0",
+    "priority_score": "31000",
+    "log_id": "",
+    "msg_process_filter_k": "",
+    "msg_process_filter_v": "",
+    "anchor_fold_type_v2": "0",
+    "process_at_sei_time_ms": "0",
+    "random_dispatch_ms": "0",
+    "is_dispatch": false,
+    "channel_id": "0",
+    "diff_sei2abs_second": "0",
+    "anchor_fold_duration": "0",
+    "app_id": "1128",
+    "display_text": {
+      "pieces": [
+        {
+          "type": 11,
+          "value_ref": "",
+          "string_value": "",
+          "schema_key": "",
+          "format": {
+            "color": "#ff8ce7ff",
+            "bold": false,
+            "italic": false,
+            "weight": 400,
+            "italic_angle": 0,
+            "font_size": 0,
+            "use_heigh_light_color": false,
+            "use_remote_clor": false
+          },
+          "user_value": {
+            "with_colon": false,
+            "self_show_real_name": false,
+            "left_show_extension": 0,
+            "left_additional_content": "",
+            "right_additional_content": "",
+            "user": {
+              "badge_image_list": [],
+              "real_time_icons": [],
+              "new_real_time_icons": [],
+              "top_fans": [],
+              "media_badge_image_list": [],
+              "commerce_webcast_config_ids": [],
+              "badge_image_list_v2": [
+                {
+                  "url_list": [
+                    "http://p6-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+                    "http://p11-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+                    "http://p3-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image"
+                  ],
+                  "flex_setting_list": [],
+                  "text_setting_list": [],
+                  "uri": "webcast/new_user_grade_level_v1_32.png",
+                  "height": "16",
+                  "width": "32",
+                  "avg_color": "",
+                  "image_type": 1,
+                  "open_web_url": "",
+                  "is_animated": false,
+                  "content": {
+                    "name": "",
+                    "font_color": "",
+                    "level": "32",
+                    "alternative_text": "荣誉等级32级勋章"
+                  }
+                },
+                {
+                  "url_list": [
+                    "http://p3-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image",
+                    "http://p6-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image",
+                    "http://p11-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image"
+                  ],
+                  "flex_setting_list": [],
+                  "text_setting_list": [],
+                  "uri": "webcast/fansclub_level_v6_4.png",
+                  "height": "0",
+                  "width": "0",
+                  "avg_color": "",
+                  "image_type": 7,
+                  "open_web_url": "",
+                  "is_animated": false,
+                  "content": {
+                    "name": "咩咩咩",
+                    "font_color": "#FFFFFF",
+                    "level": "4",
+                    "alternative_text": "咩咩咩粉丝团勋章"
+                  }
+                },
+                {
+                  "url_list": [
+                    "http://p3-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+                    "http://p11-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+                    "http://p6-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image"
+                  ],
+                  "flex_setting_list": [
+                    {
+                      "setting_list": [
+                        "0",
+                        "0",
+                        "62",
+                        "18"
+                      ]
+                    }
+                  ],
+                  "text_setting_list": [
+                    {
+                      "setting_list": [
+                        "0",
+                        "0",
+                        "62",
+                        "18"
+                      ]
+                    }
+                  ],
+                  "uri": "webcast/fansclub_new_badge_4_xmp.png",
+                  "height": "0",
+                  "width": "0",
+                  "avg_color": "",
+                  "image_type": 51,
+                  "open_web_url": "",
+                  "is_animated": false,
+                  "content": {
+                    "name": "咩咩咩",
+                    "font_color": "#FFFFFF",
+                    "level": "4",
+                    "alternative_text": "咩咩咩粉丝团勋章"
+                  }
+                }
+              ],
+              "id": "111111",
+              "short_id": "0",
+              "nickname": "I***",
+              "gender": 0,
+              "signature": "",
+              "level": 0,
+              "birthday": "0",
+              "telephone": "",
+              "verified": false,
+              "experience": 0,
+              "city": "",
+              "status": 0,
+              "create_time": "0",
+              "modify_time": "0",
+              "secret": 0,
+              "share_qrcode_uri": "",
+              "income_share_percent": 0,
+              "special_id": "",
+              "top_vip_no": "0",
+              "pay_score": "0",
+              "ticket_count": "0",
+              "link_mic_stats": 0,
+              "display_id": "",
+              "with_commerce_permission": false,
+              "with_fusion_shop_entry": false,
+              "total_recharge_diamond_count": "0",
+              "verified_content": "",
+              "sec_uid": "",
+              "user_role": 0,
+              "authorization_info": 0,
+              "adversary_authorization_info": 0,
+              "adversary_user_status": 0,
+              "location_city": "",
+              "remark_name": "",
+              "mystery_man": 1,
+              "web_rid": "",
+              "desensitized_nickname": "I***",
+              "is_anonymous": false,
+              "consume_diamond_level": 0,
+              "webcast_uid": "MS4wLjNCYgINdrnzK6Gs4x4R0hVp6TbaPs-paPcGpEz4OmPxRzpk9rmEufrF0HShUm091SQ",
+              "allow_be_located": false,
+              "allow_find_by_contacts": false,
+              "allow_others_download_video": false,
+              "allow_others_download_when_sharing_video": false,
+              "allow_share_show_profile": false,
+              "allow_show_in_gossip": false,
+              "allow_show_my_action": false,
+              "allow_strange_comment": false,
+              "allow_unfollower_comment": false,
+              "allow_use_linkmic": false,
+              "bg_img_url": "",
+              "birthday_description": "",
+              "birthday_valid": false,
+              "block_status": 0,
+              "comment_restrict": 0,
+              "constellation": "",
+              "disable_ichat": 0,
+              "enable_ichat_img": "0",
+              "exp": 0,
+              "fan_ticket_count": "0",
+              "fold_stranger_chat": false,
+              "follow_status": "0",
+              "hotsoon_verified": false,
+              "hotsoon_verified_reason": "",
+              "ichat_restrict_type": 0,
+              "id_str": "111111",
+              "is_follower": false,
+              "is_following": false,
+              "need_profile_guide": false,
+              "pay_scores": "0",
+              "push_comment_status": false,
+              "push_digg": false,
+              "push_follow": false,
+              "push_friend_action": false,
+              "push_ichat": false,
+              "push_status": false,
+              "push_video_post": false,
+              "push_video_recommend": false,
+              "verified_mobile": false,
+              "verified_reason": "",
+              "with_car_management_permission": false,
+              "age_range": 0,
+              "watch_duration_month": "0",
+              "public_area_badge_info": {
+                "badge_info_map": {
+                  "6": {
+                    "url_list": [
+                      "http://p6-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+                      "http://p11-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+                      "http://p3-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image"
+                    ],
+                    "flex_setting_list": [],
+                    "text_setting_list": [],
+                    "uri": "webcast/new_user_grade_level_v1_32.png",
+                    "height": "16",
+                    "width": "32",
+                    "avg_color": "",
+                    "image_type": 1,
+                    "open_web_url": "",
+                    "is_animated": false,
+                    "content": {
+                      "name": "",
+                      "font_color": "",
+                      "level": "32",
+                      "alternative_text": "荣誉等级32级勋章"
+                    }
+                  },
+                  "12": {
+                    "url_list": [
+                      "http://p3-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+                      "http://p11-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+                      "http://p6-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image"
+                    ],
+                    "flex_setting_list": [
+                      {
+                        "setting_list": [
+                          "0",
+                          "0",
+                          "62",
+                          "18"
+                        ]
+                      }
+                    ],
+                    "text_setting_list": [
+                      {
+                        "setting_list": [
+                          "0",
+                          "0",
+                          "62",
+                          "18"
+                        ]
+                      }
+                    ],
+                    "uri": "webcast/fansclub_new_badge_4_xmp.png",
+                    "height": "0",
+                    "width": "0",
+                    "avg_color": "",
+                    "image_type": 51,
+                    "open_web_url": "",
+                    "is_animated": false,
+                    "content": {
+                      "name": "咩咩咩",
+                      "font_color": "#FFFFFF",
+                      "level": "4",
+                      "alternative_text": "咩咩咩粉丝团勋章"
+                    }
+                  }
+                },
+                "badge_list": [
+                  "6",
+                  "12"
+                ],
+                "webcast_dsl_badge_list": []
+              }
+            }
+          }
+        },
+        {
+          "type": 1,
+          "value_ref": "",
+          "string_value": "比心兔兔",
+          "schema_key": "",
+          "format": {
+            "color": "#ffface15",
+            "bold": false,
+            "italic": false,
+            "weight": 400,
+            "italic_angle": 0,
+            "font_size": 0,
+            "use_heigh_light_color": false,
+            "use_remote_clor": false
+          }
+        },
+        {
+          "type": 15,
+          "value_ref": "",
+          "string_value": "",
+          "schema_key": "",
+          "image_value": {
+            "scaling_rate": 0,
+            "image": {
+              "url_list": [
+                "http://p3-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-resize:45:45.png",
+                "http://p11-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-resize:45:45.png",
+                "http://p6-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-resize:45:45.png"
+              ],
+              "flex_setting_list": [],
+              "text_setting_list": [],
+              "uri": "webcast/54898b5b0d85b8659083bd9618e09af5.png",
+              "height": "0",
+              "width": "0",
+              "avg_color": "#D6D6D6",
+              "image_type": 0,
+              "open_web_url": "",
+              "is_animated": false
+            }
+          }
+        },
+        {
+          "type": 1,
+          "value_ref": "",
+          "string_value": "x1",
+          "schema_key": "",
+          "format": {
+            "color": "#ffface15",
+            "bold": false,
+            "italic": false,
+            "weight": 400,
+            "italic_angle": 0,
+            "font_size": 0,
+            "use_heigh_light_color": false,
+            "use_remote_clor": false
+          }
+        }
+      ],
+      "schema_infos": {},
+      "key": "webcast_aweme_gift_send_message_v3",
+      "default_pattern": "{0:user} 送出{1:string}{2:image} {3:string}",
+      "default_format": {
+        "color": "#ffface15",
+        "bold": false,
+        "italic": false,
+        "weight": 400,
+        "italic_angle": 0,
+        "font_size": 0,
+        "use_heigh_light_color": false,
+        "use_remote_clor": false
+      }
+    }
+  },
+  "user": {
+    "badge_image_list": [
+      {
+        "url_list": [
+          "http://p6-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+          "http://p11-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+          "http://p3-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image"
+        ],
+        "flex_setting_list": [],
+        "text_setting_list": [],
+        "uri": "webcast/new_user_grade_level_v1_32.png",
+        "height": "16",
+        "width": "32",
+        "avg_color": "",
+        "image_type": 1,
+        "open_web_url": "",
+        "is_animated": false,
+        "content": {
+          "name": "",
+          "font_color": "",
+          "level": "32",
+          "alternative_text": "荣誉等级32级勋章"
+        }
+      },
+      {
+        "url_list": [
+          "http://p3-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image",
+          "http://p6-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image",
+          "http://p11-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image"
+        ],
+        "flex_setting_list": [],
+        "text_setting_list": [],
+        "uri": "webcast/fansclub_level_v6_4.png",
+        "height": "0",
+        "width": "0",
+        "avg_color": "",
+        "image_type": 7,
+        "open_web_url": "",
+        "is_animated": false,
+        "content": {
+          "name": "咩咩咩",
+          "font_color": "#FFFFFF",
+          "level": "4",
+          "alternative_text": "咩咩咩粉丝团勋章"
+        }
+      }
+    ],
+    "real_time_icons": [],
+    "new_real_time_icons": [],
+    "top_fans": [],
+    "media_badge_image_list": [],
+    "commerce_webcast_config_ids": [],
+    "badge_image_list_v2": [
+      {
+        "url_list": [
+          "http://p6-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+          "http://p11-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+          "http://p3-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image"
+        ],
+        "flex_setting_list": [],
+        "text_setting_list": [],
+        "uri": "webcast/new_user_grade_level_v1_32.png",
+        "height": "16",
+        "width": "32",
+        "avg_color": "",
+        "image_type": 1,
+        "open_web_url": "",
+        "is_animated": false,
+        "content": {
+          "name": "",
+          "font_color": "",
+          "level": "32",
+          "alternative_text": "荣誉等级32级勋章"
+        }
+      },
+      {
+        "url_list": [
+          "http://p3-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image",
+          "http://p6-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image",
+          "http://p11-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image"
+        ],
+        "flex_setting_list": [],
+        "text_setting_list": [],
+        "uri": "webcast/fansclub_level_v6_4.png",
+        "height": "0",
+        "width": "0",
+        "avg_color": "",
+        "image_type": 7,
+        "open_web_url": "",
+        "is_animated": false,
+        "content": {
+          "name": "咩咩咩",
+          "font_color": "#FFFFFF",
+          "level": "4",
+          "alternative_text": "咩咩咩粉丝团勋章"
+        }
+      },
+      {
+        "url_list": [
+          "http://p3-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+          "http://p11-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+          "http://p6-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image"
+        ],
+        "flex_setting_list": [
+          {
+            "setting_list": [
+              "0",
+              "0",
+              "62",
+              "18"
+            ]
+          }
+        ],
+        "text_setting_list": [
+          {
+            "setting_list": [
+              "0",
+              "0",
+              "62",
+              "18"
+            ]
+          }
+        ],
+        "uri": "webcast/fansclub_new_badge_4_xmp.png",
+        "height": "0",
+        "width": "0",
+        "avg_color": "",
+        "image_type": 51,
+        "open_web_url": "",
+        "is_animated": false,
+        "content": {
+          "name": "咩咩咩",
+          "font_color": "#FFFFFF",
+          "level": "4",
+          "alternative_text": "咩咩咩粉丝团勋章"
+        }
+      }
+    ],
+    "id": "111111",
+    "short_id": "0",
+    "nickname": "I***",
+    "gender": 1,
+    "signature": "",
+    "level": 1,
+    "birthday": "0",
+    "telephone": "",
+    "verified": false,
+    "experience": 0,
+    "city": "",
+    "status": 0,
+    "create_time": "0",
+    "modify_time": "0",
+    "secret": 0,
+    "share_qrcode_uri": "",
+    "income_share_percent": 0,
+    "special_id": "",
+    "top_vip_no": "0",
+    "pay_score": "0",
+    "ticket_count": "0",
+    "link_mic_stats": 0,
+    "display_id": "",
+    "with_commerce_permission": false,
+    "with_fusion_shop_entry": false,
+    "total_recharge_diamond_count": "0",
+    "verified_content": "",
+    "sec_uid": "",
+    "user_role": 0,
+    "authorization_info": 3,
+    "adversary_authorization_info": 0,
+    "adversary_user_status": 0,
+    "location_city": "",
+    "remark_name": "",
+    "mystery_man": 1,
+    "web_rid": "",
+    "desensitized_nickname": "I***",
+    "is_anonymous": false,
+    "consume_diamond_level": 0,
+    "webcast_uid": "MS4wLjNCYgINdrnzK6Gs4x4R0hVp6TbaPs-paPcGpEz4OmPxRzpk9rmEufrF0HShUm091SQ",
+    "allow_be_located": false,
+    "allow_find_by_contacts": false,
+    "allow_others_download_video": false,
+    "allow_others_download_when_sharing_video": false,
+    "allow_share_show_profile": false,
+    "allow_show_in_gossip": false,
+    "allow_show_my_action": false,
+    "allow_strange_comment": false,
+    "allow_unfollower_comment": false,
+    "allow_use_linkmic": false,
+    "bg_img_url": "",
+    "birthday_description": "",
+    "birthday_valid": false,
+    "block_status": 0,
+    "comment_restrict": 0,
+    "constellation": "",
+    "disable_ichat": 0,
+    "enable_ichat_img": "0",
+    "exp": 0,
+    "fan_ticket_count": "0",
+    "fold_stranger_chat": false,
+    "follow_status": "0",
+    "hotsoon_verified": false,
+    "hotsoon_verified_reason": "",
+    "ichat_restrict_type": 0,
+    "id_str": "111111",
+    "is_follower": false,
+    "is_following": false,
+    "need_profile_guide": false,
+    "pay_scores": "0",
+    "push_comment_status": false,
+    "push_digg": false,
+    "push_follow": false,
+    "push_friend_action": false,
+    "push_ichat": false,
+    "push_status": false,
+    "push_video_post": false,
+    "push_video_recommend": false,
+    "verified_mobile": false,
+    "verified_reason": "",
+    "with_car_management_permission": false,
+    "age_range": 0,
+    "watch_duration_month": "0",
+    "avatar_thumb": {
+      "url_list": [
+        "http://p3-webcast.douyinpic.com/img/webcast/small_DefAvatar.png~tplv-obj.image",
+        "http://p11-webcast.douyinpic.com/img/webcast/small_DefAvatar.png~tplv-obj.image",
+        "http://p6-webcast.douyinpic.com/img/webcast/small_DefAvatar.png~tplv-obj.image"
+      ],
+      "flex_setting_list": [],
+      "text_setting_list": [],
+      "uri": "webcast/small_DefAvatar.png",
+      "height": "0",
+      "width": "0",
+      "avg_color": "#EBCECE",
+      "image_type": 0,
+      "open_web_url": "",
+      "is_animated": false
+    },
+    "follow_info": {
+      "following_count": "248",
+      "follower_count": "91",
+      "follow_status": "0",
+      "push_status": "0",
+      "remark_name": "",
+      "follower_count_str": "91",
+      "following_count_str": "248",
+      "invalid_follow_status": false
+    },
+    "pay_grade": {
+      "grade_icon_list": [],
+      "total_diamond_count": "0",
+      "name": "",
+      "next_name": "",
+      "level": "32",
+      "next_diamond": "0",
+      "now_diamond": "0",
+      "this_grade_min_diamond": "0",
+      "this_grade_max_diamond": "0",
+      "pay_diamond_bak": "0",
+      "grade_describe": "",
+      "screen_chat_type": "0",
+      "upgrade_need_consume": "0",
+      "next_privileges": "",
+      "score": "0",
+      "grade_describe_shining": false,
+      "grade_banner": "",
+      "new_im_icon_with_level": {
+        "url_list": [
+          "http://p6-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+          "http://p11-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+          "http://p3-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image"
+        ],
+        "flex_setting_list": [],
+        "text_setting_list": [],
+        "uri": "webcast/new_user_grade_level_v1_32.png",
+        "height": "16",
+        "width": "32",
+        "avg_color": "",
+        "image_type": 1,
+        "open_web_url": "",
+        "is_animated": false
+      },
+      "new_live_icon": {
+        "url_list": [
+          "http://p11-webcast.douyinpic.com/img/webcast/aweme_pay_grade_2x_30_34.png~tplv-obj.image",
+          "http://p3-webcast.douyinpic.com/img/webcast/aweme_pay_grade_2x_30_34.png~tplv-obj.image",
+          "http://p6-webcast.douyinpic.com/img/webcast/aweme_pay_grade_2x_30_34.png~tplv-obj.image"
+        ],
+        "flex_setting_list": [],
+        "text_setting_list": [],
+        "uri": "webcast/aweme_pay_grade_2x_30_34.png",
+        "height": "12",
+        "width": "12",
+        "avg_color": "",
+        "image_type": 1,
+        "open_web_url": "",
+        "is_animated": false
+      }
+    },
+    "fans_club": {
+      "prefer_data": {
+        "1": {
+          "available_gift_ids": [],
+          "club_name": "宠奈宝",
+          "level": 10,
+          "user_fans_club_status": 1,
+          "anchor_id": "4182169022901150",
+          "badge_type": 0,
+          "badge": {
+            "icons": {
+              "2": {
+                "url_list": [
+                  "http://p3-webcast.douyinpic.com/img/webcast/fansclub_level_v6_10.png~tplv-obj.image",
+                  "http://p11-webcast.douyinpic.com/img/webcast/fansclub_level_v6_10.png~tplv-obj.image",
+                  "http://p6-webcast.douyinpic.com/img/webcast/fansclub_level_v6_10.png~tplv-obj.image"
+                ],
+                "flex_setting_list": [],
+                "text_setting_list": [],
+                "uri": "webcast/fansclub_level_v6_10.png",
+                "height": "0",
+                "width": "0",
+                "avg_color": "",
+                "image_type": 0,
+                "open_web_url": "",
+                "is_animated": false
+              },
+              "4": {
+                "url_list": [
+                  "http://p3-webcast.douyinpic.com/img/webcast/fansclub_new_badge_10_xmp.png~tplv-obj.image",
+                  "http://p11-webcast.douyinpic.com/img/webcast/fansclub_new_badge_10_xmp.png~tplv-obj.image",
+                  "http://p6-webcast.douyinpic.com/img/webcast/fansclub_new_badge_10_xmp.png~tplv-obj.image"
+                ],
+                "flex_setting_list": [
+                  {
+                    "setting_list": [
+                      "0",
+                      "0",
+                      "62",
+                      "18"
+                    ]
+                  }
+                ],
+                "text_setting_list": [
+                  {
+                    "setting_list": [
+                      "0",
+                      "0",
+                      "62",
+                      "18"
+                    ]
+                  }
+                ],
+                "uri": "webcast/fansclub_new_badge_10_xmp.png",
+                "height": "0",
+                "width": "0",
+                "avg_color": "",
+                "image_type": 0,
+                "open_web_url": "",
+                "is_animated": false
+              }
+            },
+            "title": "宠奈宝"
+          }
+        }
+      },
+      "data": {
+        "available_gift_ids": [],
+        "club_name": "咩咩咩",
+        "level": 4,
+        "user_fans_club_status": 1,
+        "anchor_id": "50594713553",
+        "badge_type": 0,
+        "badge": {
+          "icons": {
+            "2": {
+              "url_list": [
+                "http://p3-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image",
+                "http://p6-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image",
+                "http://p11-webcast.douyinpic.com/img/webcast/fansclub_level_v6_4.png~tplv-obj.image"
+              ],
+              "flex_setting_list": [],
+              "text_setting_list": [],
+              "uri": "webcast/fansclub_level_v6_4.png",
+              "height": "0",
+              "width": "0",
+              "avg_color": "",
+              "image_type": 0,
+              "open_web_url": "",
+              "is_animated": false
+            },
+            "4": {
+              "url_list": [
+                "http://p3-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+                "http://p11-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+                "http://p6-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image"
+              ],
+              "flex_setting_list": [
+                {
+                  "setting_list": [
+                    "0",
+                    "0",
+                    "62",
+                    "18"
+                  ]
+                }
+              ],
+              "text_setting_list": [
+                {
+                  "setting_list": [
+                    "0",
+                    "0",
+                    "62",
+                    "18"
+                  ]
+                }
+              ],
+              "uri": "webcast/fansclub_new_badge_4_xmp.png",
+              "height": "0",
+              "width": "0",
+              "avg_color": "",
+              "image_type": 0,
+              "open_web_url": "",
+              "is_animated": false
+            }
+          },
+          "title": "咩咩咩"
+        }
+      }
+    },
+    "user_attr": {
+      "admin_privileges": [],
+      "is_muted": false,
+      "is_admin": false,
+      "is_super_admin": false
+    },
+    "public_area_badge_info": {
+      "badge_info_map": {
+        "6": {
+          "url_list": [
+            "http://p6-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+            "http://p11-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image",
+            "http://p3-webcast.douyinpic.com/img/webcast/new_user_grade_level_v1_32.png~tplv-obj.image"
+          ],
+          "flex_setting_list": [],
+          "text_setting_list": [],
+          "uri": "webcast/new_user_grade_level_v1_32.png",
+          "height": "16",
+          "width": "32",
+          "avg_color": "",
+          "image_type": 1,
+          "open_web_url": "",
+          "is_animated": false,
+          "content": {
+            "name": "",
+            "font_color": "",
+            "level": "32",
+            "alternative_text": "荣誉等级32级勋章"
+          }
+        },
+        "12": {
+          "url_list": [
+            "http://p3-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+            "http://p11-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image",
+            "http://p6-webcast.douyinpic.com/img/webcast/fansclub_new_badge_4_xmp.png~tplv-obj.image"
+          ],
+          "flex_setting_list": [
+            {
+              "setting_list": [
+                "0",
+                "0",
+                "62",
+                "18"
+              ]
+            }
+          ],
+          "text_setting_list": [
+            {
+              "setting_list": [
+                "0",
+                "0",
+                "62",
+                "18"
+              ]
+            }
+          ],
+          "uri": "webcast/fansclub_new_badge_4_xmp.png",
+          "height": "0",
+          "width": "0",
+          "avg_color": "",
+          "image_type": 51,
+          "open_web_url": "",
+          "is_animated": false,
+          "content": {
+            "name": "咩咩咩",
+            "font_color": "#FFFFFF",
+            "level": "4",
+            "alternative_text": "咩咩咩粉丝团勋章"
+          }
+        }
+      },
+      "badge_list": [
+        "6",
+        "12"
+      ],
+      "webcast_dsl_badge_list": []
+    }
+  },
+  "priority": {
+    "queue_sizes": [
+      "-1",
+      "-1",
+      "200",
+      "150"
+    ],
+    "self_queue_priority": "1",
+    "priority": "3"
+  },
+  "gift": {
+    "special_effects": {},
+    "subs": [],
+    "trigger_words": [],
+    "gift_buff_infos": [],
+    "asset_ids": [
+      "4010"
+    ],
+    "group_info": [
+      {
+        "group_count": 10,
+        "group_text": "完美"
+      },
+      {
+        "group_count": 20,
+        "group_text": "情有独钟"
+      },
+      {
+        "group_count": 66,
+        "group_text": "6的飞起"
+      }
+    ],
+    "optional_asset_ids": [],
+    "describe": "送出比心兔兔",
+    "notify": false,
+    "duration": "1000",
+    "id": "3780",
+    "for_linkmic": true,
+    "doodle": false,
+    "for_fansclub": false,
+    "combo": false,
+    "type": 2,
+    "diamond_count": 299,
+    "is_displayed_on_panel": true,
+    "primary_effect_id": "4010",
+    "name": "比心兔兔",
+    "region": "",
+    "manual": "",
+    "for_custom": false,
+    "action_type": 0,
+    "watermelon_seeds": 0,
+    "gold_effect": "",
+    "golden_beans": "0",
+    "honor_level": "0",
+    "item_type": 1,
+    "scheme_url": "",
+    "event_name": "",
+    "noble_level": "0",
+    "guide_url": "",
+    "punish_medicine": false,
+    "for_portal": false,
+    "business_text": "",
+    "cny_gift": false,
+    "app_id": "1128",
+    "vip_level": "0",
+    "is_gray": false,
+    "gray_scheme_url": "",
+    "gift_scene": "5",
+    "for_first_recharge": false,
+    "after_send_action": 2,
+    "gift_offline_time": "0",
+    "top_bar_text": "",
+    "banner_scheme_url": "https://lf-webcast-gr-sourcecdn.bytegecko.com/obj/byte-gurd-source-gr/webcast/mono/lynx/revenue_gift_panel_douyin/pages/banner/progress/template.js",
+    "is_locked": false,
+    "req_extra_type": "3",
+    "need_sweep_light_count": 0,
+    "mystery_shop_status": 0,
+    "disable_wish_list": false,
+    "tray_dynamic_img_flippable": false,
+    "pico_show_action": "0",
+    "selected_dynamic_effect": "0",
+    "biz_type": 0,
+    "image": {
+      "url_list": [
+        "http://p3-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-obj.png",
+        "http://p6-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-obj.png",
+        "http://p11-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-obj.png"
+      ],
+      "flex_setting_list": [],
+      "text_setting_list": [],
+      "uri": "webcast/54898b5b0d85b8659083bd9618e09af5.png",
+      "height": "0",
+      "width": "0",
+      "avg_color": "#7A6053",
+      "image_type": 0,
+      "open_web_url": "",
+      "is_animated": false
+    },
+    "icon": {
+      "url_list": [
+        "http://p3-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-obj.png",
+        "http://p6-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-obj.png",
+        "http://p11-webcast.douyinpic.com/img/webcast/54898b5b0d85b8659083bd9618e09af5.png~tplv-obj.png"
+      ],
+      "flex_setting_list": [],
+      "text_setting_list": [],
+      "uri": "webcast/54898b5b0d85b8659083bd9618e09af5.png",
+      "height": "0",
+      "width": "0",
+      "avg_color": "#FADCF0",
+      "image_type": 0,
+      "open_web_url": "",
+      "is_animated": false
+    },
+    "gift_preview_info": {
+      "lock_status": "0",
+      "client_block_use_scheme_url": false,
+      "block_scheme_url": "",
+      "client_check_left_diamond": true,
+      "block_toast": ""
+    },
+    "gift_tip": {
+      "background_color": "#CC595C66",
+      "remaining_duration": "0",
+      "countdown_deadline_time": "0",
+      "display_text": {
+        "pieces": [],
+        "schema_infos": {},
+        "key": "",
+        "default_pattern": ""
+      }
+    }
+  },
+  "public_area_common": {
+    "individual_strategy_result": {},
+    "tracking_params": {},
+    "user_consume_in_room": "0",
+    "user_send_gift_cnt_in_room": "0",
+    "individual_priority": "50",
+    "support_pin": "0",
+    "im_action": 3,
+    "forbidden_profile": false,
+    "is_featured": "0",
+    "user_label": {
+      "url_list": [
+        "http://p3-webcast.douyinpic.com/img/webcast/userlabel_new_send_gift.png~tplv-obj.image",
+        "http://p11-webcast.douyinpic.com/img/webcast/userlabel_new_send_gift.png~tplv-obj.image",
+        "http://p6-webcast.douyinpic.com/img/webcast/userlabel_new_send_gift.png~tplv-obj.image"
+      ],
+      "flex_setting_list": [],
+      "text_setting_list": [],
+      "uri": "webcast/userlabel_new_send_gift.png",
+      "height": "0",
+      "width": "0",
+      "avg_color": "#CCB1A3",
+      "image_type": 0,
+      "open_web_url": "",
+      "is_animated": false
+    }
+  },
+  "tray_display_text": {
+    "pieces": [
+      {
+        "type": 1,
+        "value_ref": "",
+        "string_value": "比心兔兔",
+        "schema_key": "",
+        "format": {
+          "color": "#B3FFFFFF",
+          "bold": false,
+          "italic": false,
+          "weight": 400,
+          "italic_angle": 0,
+          "font_size": 0,
+          "use_heigh_light_color": false,
+          "use_remote_clor": true
+        }
+      }
+    ],
+    "schema_infos": {},
+    "key": "webcast_aweme_tray_message_to_anchor",
+    "default_pattern": "送{0}",
+    "default_format": {
+      "color": "#B3FFFFFF",
+      "bold": false,
+      "italic": false,
+      "weight": 400,
+      "italic_angle": 0,
+      "font_size": 0,
+      "use_heigh_light_color": false,
+      "use_remote_clor": true
+    }
+  },
+  "tray_info": {
+    "tray_level": "2",
+    "tray_schema_url": "",
+    "tray_type": 0,
+    "use_high_layer": true,
+    "duration": "3000",
+    "toast": "",
+    "tray_slide_rate": 0,
+    "origin_gift_id": "3780",
+    "buff_level": "0",
+    "toolbar_card_name": "",
+    "tray_base_img": {
+      "url_list": [
+        "http://p11-webcast.douyinpic.com/img/webcast/1aa8802f448b8afa49693322e627ede1.png~tplv-obj.image",
+        "http://p3-webcast.douyinpic.com/img/webcast/1aa8802f448b8afa49693322e627ede1.png~tplv-obj.image",
+        "http://p6-webcast.douyinpic.com/img/webcast/1aa8802f448b8afa49693322e627ede1.png~tplv-obj.image"
+      ],
+      "flex_setting_list": [],
+      "text_setting_list": [],
+      "uri": "webcast/1aa8802f448b8afa49693322e627ede1.png",
+      "height": "0",
+      "width": "0",
+      "avg_color": "#374C52",
+      "image_type": 0,
+      "open_web_url": "",
+      "is_animated": false
+    },
+    "tray_dynamic_img": {
+      "url_list": [],
+      "flex_setting_list": [],
+      "text_setting_list": [],
+      "uri": "",
+      "height": "0",
+      "width": "0",
+      "avg_color": "#EBCECE",
+      "image_type": 0,
+      "open_web_url": "",
+      "is_animated": false
+    },
+    "tray_base_img_v2": {
+      "url_list": [
+        "http://p3-webcast.douyinpic.com/img/webcast/tray_base_image2.png~tplv-obj.image",
+        "http://p6-webcast.douyinpic.com/img/webcast/tray_base_image2.png~tplv-obj.image",
+        "http://p11-webcast.douyinpic.com/img/webcast/tray_base_image2.png~tplv-obj.image"
+      ],
+      "flex_setting_list": [],
+      "text_setting_list": [],
+      "uri": "webcast/tray_base_image2.png",
+      "height": "0",
+      "width": "0",
+      "avg_color": "#DCF4FA",
+      "image_type": 0,
+      "open_web_url": "",
+      "is_animated": false
+    },
+    "tray_post_effect": {
+      "post_schema": "",
+      "post_duration": "0",
+      "post_effect_source": 0,
+      "post_effect_img": {
+        "url_list": [],
+        "flex_setting_list": [],
+        "text_setting_list": [],
+        "uri": "",
+        "height": "0",
+        "width": "0",
+        "avg_color": "#EBE1CE",
+        "image_type": 0,
+        "open_web_url": "",
+        "is_animated": false
+      }
+    }
+  },
+  "room_hot_info": {
+    "local_hot_strategy": 0,
+    "public_area_level": 0,
+    "gift_level": 1
+  }
+}
